@@ -4,6 +4,10 @@
 - 2019 명지고등학교 졸업
 - 2019 인하대학교 정보통신공학과 입학
 
+## 🏆 Awards
+- 🥉 2021학년도 인하 종합설계 경진대회 동상
+- 🥈 메타버스 콘테스트 with ZEPETO 우수 대상팀
+
 <!--[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nae-room&show_icons=true&theme=graywhite) 
 [![nae-room's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nae-room&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/nae-room) -->
  
