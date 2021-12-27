@@ -13,7 +13,7 @@
 - 2021 전국 공학페스티벌 심사위원 E2 Panel
 
 ## 📝 Study
-- Studying : <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+- Studying : <img src="https://img.shields.io/badge/C++-#00599C?style=flat-square&logo=C++&logoColor=#00599C" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 - Trying to Study : 
 
 <br>
