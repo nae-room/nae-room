@@ -2,7 +2,7 @@
 
 ## 🎓 Education
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyMTEyMjhfMTYg/MDAxNjQwNjI0Njg1NTQ3.0Pm6TFl_B5vqwJz9NBLbK1GFYaMuWq6andvzZNDWAvUg._7JrI5Oj_l4cyvw9HM2aJrRfQGDa-kbQciBTPEquwakg.JPEG.pmj1010235/Basic.jpg?type=w800"  width="150" height="150"/>
-![명지](https://mblogthumb-phinf.pstatic.net/MjAyMTEyMjhfMTYg/MDAxNjQwNjI0Njg1NTQ3.0Pm6TFl_B5vqwJz9NBLbK1GFYaMuWq6andvzZNDWAvUg._7JrI5Oj_l4cyvw9HM2aJrRfQGDa-kbQciBTPEquwakg.JPEG.pmj1010235/Basic.jpg?type=w800)
+![명지]("https://mblogthumb-phinf.pstatic.net/MjAyMTEyMjhfMTYg/MDAxNjQwNjI0Njg1NTQ3.0Pm6TFl_B5vqwJz9NBLbK1GFYaMuWq6andvzZNDWAvUg._7JrI5Oj_l4cyvw9HM2aJrRfQGDa-kbQciBTPEquwakg.JPEG.pmj1010235/Basic.jpg?type=w800")
 
 <!--[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nae-room&show_icons=true&theme=graywhite) 
 [![nae-room's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nae-room&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/nae-room) -->
