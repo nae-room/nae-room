@@ -5,7 +5,7 @@
 - 2019 인하대학교 정보통신공학과 입학
 
 ## 🏆 Awards
-- 🥉 2021학년도 인하 종합설계 경진대회 동상 [](https://github.com/nae-room/INHA-DASU)
+- 🥉 2021학년도 인하 종합설계 경진대회 동상 [동상](https://github.com/nae-room/INHA-DASU)
 - 🥈 메타버스 콘테스트 with ZEPETO 우수 대상팀
 
 ## 🌏 Extracurricular activity
