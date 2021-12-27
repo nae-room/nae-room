@@ -12,6 +12,7 @@
 ## 🌏 Extracurricular activity
 - 2021 전국 공학페스티벌 홍보대사 E2 VJ
 - 2021 전국 공학페스티벌 심사위원 E2 Panel
+- 2021 비룡제 서포터즈
 
 ## 📝 Study
 - Studying : [<img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>](https://github.com/nae-room/BAEK-JOON) <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> [<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>](https://github.com/nae-room/Programmers_SQL) [<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>](https://github.com/nae-room/DACON)
