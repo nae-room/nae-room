@@ -13,8 +13,10 @@
 - 2021 전국 공학페스티벌 심사위원 E2 Panel
 
 ## 📝 Study
-- Studying : <img src="https://img.shields.io/badge/C++-#00599C?style=flat-square&logo=C++&logoColor=white"/></a>
+- Studying : <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 - Trying to Study : 
+
+<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nae-room&show_icons=true&theme=graywhite)
 [![nae-room's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nae-room&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/nae-room)
  
