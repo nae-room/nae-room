@@ -4,6 +4,17 @@
 - 2016.03 - 2019.02 명지고등학교
 - 2019.03 - 인하대학교 정보통신공학과
 
+<!-- ## 🏆 Awards -->
+<!-- 🥇 2021 - 1학기 다학년 연구프로젝트 성과발표회 대상 <br> <!-- 2021/7/12 인하대학교 공학교육혁신센터 -->
+<!-- 🥇 2021 - 2학기 다학년 연구프로젝트 성과발표회 대상 <br> <!-- 2021/7/12 인하대학교 공학교육혁신센터 -->
+<!-- 🥈 메타버스 콘테스트 with ZEPETO 은상 <br> <!-- 2021/12/27 디지털 혁신공유대학사업단 협의회장 장세원 -->
+<!-- [🥉](https://github.com/nae-room/INHA-DASU) 2021학년도 인하 종합설계 경진대회 동상 <br> <!-- 2021/9/15 인하대학교 -->
+
+<!-- ## 🌏 Extracurricular activity -->
+<!-- - 2021 전국 공학페스티벌 홍보대사 E2 VJ <!-- 2021.9 ~ 2021.11.15 -->
+<!-- - 2021 전국 공학페스티벌 심사위원 E2 Panel <!-- 2021.10.11 ~ 2021.11.15 -->
+<!-- - 2021 비룡제 서포터즈 <!-- 2021.10.20 ~ 2021.11.11 파토남 ㅋㅋ -->
+
 ## 📝 Study
 - Studying : [<img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>](https://github.com/nae-room/BAEK-JOON) <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> [<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>](https://github.com/nae-room/Programmers_SQL) [<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>](https://github.com/nae-room/DACON)
 - Trying to Study : <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
