@@ -13,11 +13,11 @@
 [🥉](https://github.com/nae-room/INHA-DASU) 2021학년도 인하 종합설계 경진대회 동상 <br> <!-- 2021/9/15 인하대학교 -->
 
 ## 🏆 Project
-#Team Project
+# Team Project
 - 2021 인하 발명 아이디어 경진대회 팝콘팀 <br>
 - 2022 슈퍼챌린지 소프트웨어 해커톤 김앤장팀 (CPR) <br>
 - 2022 한이음 ARMY팀 <br>
-#Personal Project
+# Personal Project
 
 ## 🌏 Extracurricular activity
 - 2021 전국 공학페스티벌 홍보대사 E2 VJ <!-- 2021.9 ~ 2021.11.15 --> <br>
