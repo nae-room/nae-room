@@ -19,7 +19,7 @@
 - 2022 한이음 ARMY팀 <br>
 - 2022 고래팀  
   
-<br>**Personal Project**
+**Personal Project**
 - 2022.12 - 예정  <br>
 
 ## 🌏 Extracurricular activity
